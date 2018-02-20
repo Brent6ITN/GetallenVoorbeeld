@@ -1,5 +1,0 @@
-C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.csprojResolveAssemblyReference.cache
-C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\bin\Debug\GetalLibrary.dll
-C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\bin\Debug\GetalLibrary.pdb
-C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.dll
-C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.pdb
