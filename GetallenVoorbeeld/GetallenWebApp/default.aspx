@@ -4,11 +4,13 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>GGD</title>
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
+            Zoek GGD:<br />
+            <br />
             Getal1:
             <asp:TextBox ID="txtgetal1" runat="server"></asp:TextBox>
             <br />
