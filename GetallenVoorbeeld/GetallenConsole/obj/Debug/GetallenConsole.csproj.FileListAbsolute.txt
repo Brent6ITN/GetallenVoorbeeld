@@ -1,0 +1,8 @@
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetallenConsole.exe.config
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetallenConsole.exe
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetallenConsole.pdb
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetalLibrary.dll
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetalLibrary.pdb
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.exe
+C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.pdb
